@@ -1,0 +1,1 @@
+ hdiutil create -fs HFS+ -volname "gp_client" -srcfolder "cmake-build-debug/" "gp_client.dmg"
